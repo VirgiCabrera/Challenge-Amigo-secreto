@@ -11,15 +11,14 @@ La aplicación cuenta con las siguientes funcionalidades:
 
 Agregar Participantes: Los usuarios pueden ingresar los nombres de las personas que participarán en el intercambio de regalos.
 
-Captura de pantalla de la sección de agregar participantes
+
 
 Realizar el Sorteo: Una vez que se han agregado todos los participantes, la aplicación realiza el sorteo de forma aleatoria y asigna a cada persona su "amigo secreto".
 
-Captura de pantalla del resultado del sorteo
+
 
 Imprimir Tarjetas: Los usuarios pueden imprimir tarjetas con la información de cada participante y su "amigo secreto" asignado.
 
-Captura de pantalla de la sección de imprimir tarjetas
 
 Cómo Usar
 Ingresa a la aplicación web.
